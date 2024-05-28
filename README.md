@@ -46,6 +46,8 @@ III. Kiểm thử API nâng cao:
    ![CHESSSE!](image11.png)
 - Kiểm tra hiệu suất API.
    ![CHESSSE!](image12.png)
+  API: https://random-data-api.com/api/v2/beers
+  Tạo một sản phẩm mới Trường hợp kiểm thử thành công: Tên: Tạo sản phẩm mới thành công Đầu vào: { "brand": "Delirium", "name": "Founders Kentucky Breakfast", "style": "India Pale Ale", "hop": "Galena", "yeast": "3638 - Bavarian Wheat", "malts": "Victory", "ibu": "16 IBU", "alcohol": "7.1%", "blg": "7.1°Blg" } Kỳ vọng: Trả về mã trạng thái 400 và thông báo lỗi chi tiết.
 - Kiểm thử bảo mật API.
   
 - Viết các kịch bản kiểm thử tự động bằng Postman.
