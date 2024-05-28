@@ -1,5 +1,5 @@
 # ThucHanhPostman
-
+Vũ Thành Đạt - 21010589
 I. Giới thiệu Postman
 1. Postman là gì?
 - Postman là một công cụ phát triển API và kiểm thử API rất phổ biến. Nó cung cấp một giao diện đồ họa dễ sử dụng cho phép bạn tạo, gửi và kiểm tra các yêu cầu HTTP đối với các API.
