@@ -27,9 +27,13 @@ II. Kiểm thử API cơ bản:
   + PUT
    ![CHESSSE!](image5.png)
    ![CHESSSE!](image5_2.png)
-+ DELETE
+  + DELETE
    ![CHESSSE!](image6.png)
    ![CHESSSE!](image6_2.png)
 - Kiểm tra mã trạng thái HTTP và nội dung phản hồi.
    ![CHESSSE!](image3.png)
 - Sử dụng các biến và bộ sưu tập dữ liệu trong Postman.
+   ![CHESSSE!](image7.png)
+   ![CHESSSE!](image8.png)
+- Xác minh tính hợp lệ của JSON.
+   ![CHESSSE!](image9.png)
