@@ -17,6 +17,7 @@ I. Giới thiệu Postman
 - Quản lý môi trường: Bạn có thể tạo các biến môi trường và sử dụng chúng trong yêu cầu. Điều này giúp bạn tùy chỉnh các yêu cầu dựa trên môi trường như local, development, production, v.v.
 II. Kiểm thử API cơ bản:
 - Gửi các yêu cầu HTTP (GET, POST, PUT, DELETE) đến API.
-GET ![CHESSSE!](image1.png)
+  + GET
+   ![CHESSSE!](image1.png)
 - Kiểm tra mã trạng thái HTTP và nội dung phản hồi.
 - Sử dụng các biến và bộ sưu tập dữ liệu trong Postman.
