@@ -19,5 +19,7 @@ II. Kiểm thử API cơ bản:
 - Gửi các yêu cầu HTTP (GET, POST, PUT, DELETE) đến API.
   + GET
    ![CHESSSE!](image1.png)
+  + POST
+   ![CHESSSE!](image2.png)
 - Kiểm tra mã trạng thái HTTP và nội dung phản hồi.
 - Sử dụng các biến và bộ sưu tập dữ liệu trong Postman.
