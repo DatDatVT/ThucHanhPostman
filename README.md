@@ -31,4 +31,5 @@ II. Kiểm thử API cơ bản:
    ![CHESSSE!](image6.png)
    ![CHESSSE!](image6_2.png)
 - Kiểm tra mã trạng thái HTTP và nội dung phản hồi.
+   ![CHESSSE!](image3.png)
 - Sử dụng các biến và bộ sưu tập dữ liệu trong Postman.
