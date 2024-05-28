@@ -1,5 +1,9 @@
 # ThucHanhPostman
-Vũ Thành Đạt - 21010589
+BÁO CÁO KIỂM THỬ API
+
+Ngày Kiểm Thử: 28/05/2024
+
+Người Kiểm Thử: Vũ Thành Đạt
 
 I. Giới thiệu Postman
 1. Postman là gì?
