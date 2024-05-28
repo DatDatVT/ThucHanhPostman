@@ -22,7 +22,13 @@ II. Kiểm thử API cơ bản:
   + Nhập URLcủa API muốn kiểm thử 
    ![CHESSSE!](image2.png)
   + POST
-   ![CHESSSE!](image3.png)
-   ![CHESSSE!](image3_2.png)
+   ![CHESSSE!](image4.png)
+   ![CHESSSE!](image4_2.png)
+  + PUT
+   ![CHESSSE!](image5.png)
+   ![CHESSSE!](image5_2.png)
++ DELETE
+   ![CHESSSE!](image6.png)
+   ![CHESSSE!](image6_2.png)
 - Kiểm tra mã trạng thái HTTP và nội dung phản hồi.
 - Sử dụng các biến và bộ sưu tập dữ liệu trong Postman.
